@@ -1,0 +1,23 @@
+{
+  "name": "XLJShareSDK",
+  "version": "1.0.0",
+  "summary": "A short description of XLJShareSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Ainippj/XLJShareSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ainippj": "1342389838@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Ainippj/XLJShareSDK.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XLJShareSDK/Classes/**/*",
+  "public_header_files": "XLJShareSDK/Classes/*.h"
+}

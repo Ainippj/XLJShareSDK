@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - XLJShareSDK (1.0.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - XLJShareSDK (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  XLJShareSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  XLJShareSDK: f092835a9fefb42f030da58de7a8676d2fefd777
+
+PODFILE CHECKSUM: 04f67e51d81244804425002a579755ff0822b75a
+
+COCOAPODS: 1.6.1
